@@ -1,0 +1,10 @@
+help
+Mount part1.txt 9 9
+Mount part1.txt
+Write file1.txt Hi, this is Jack!
+Write file1.txt I am now appending to an existing text file
+Read file1.txt fileInfo
+Read randomFile.txt x
+quit
+help
+jfdkjasf

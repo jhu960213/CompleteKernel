@@ -1,0 +1,5 @@
+set b jack
+set b 10
+help
+jack jajaj
+help
